@@ -45,7 +45,6 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-snap-type: y proximity;
 }
 
 body {
@@ -73,7 +72,6 @@ a {
   align-items: center;
   position: relative;
   padding: 80px 24px;
-  scroll-snap-align: start;
   overflow: hidden;
 }
 
